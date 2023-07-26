@@ -1,6 +1,8 @@
 # Module-Challenge-Fifteen
 Leaflet Challenge
 
+Github Pages
+rutvax.github.io
 
 Requirements
 These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
